@@ -3,6 +3,8 @@ Rewrites the supertool.com for sale list newsletter pages to include in-line ima
 
 Currently trying to figure out a solution for caching to not overwhelm Patrick's server.
 
+See supertool mailing list with images:
+[https://asciifaceman.github.io/resupertool/](https://asciifaceman.github.io/resupertool/)
 
 # Development
 Very simple
